@@ -102,7 +102,7 @@ sudo docker ps
 
 ## Dashboard
 
-![esquema](Vendas_por_Concessionarias---.png)
+![esquema](Vendas_por_Concessionarias----1.png)
 
 
 ## Arquivos de resolução
